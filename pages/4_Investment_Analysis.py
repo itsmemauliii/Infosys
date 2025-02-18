@@ -2,7 +2,6 @@ import streamlit as st
 import yfinance as yf
 
 st.title("💹 AI Investment Forecasting")
-st.write(data.columns)
 ticker = st.text_input("Enter Stock Ticker (e.g., AAPL, RELIANCE.NS)", "AAPL")
 data = yf.download(ticker, period="5y")
 
