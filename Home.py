@@ -78,9 +78,9 @@ elif page == "Financial Learning Hub":
     st.header("📖 Financial Learning Hub")
     
     st.write("Expand your financial knowledge with these courses:")
-    st.markdown("- [Personal Finance Basics - Coursera](https://www.coursera.org/learn/personal-finance)")
-    st.markdown("- [Investment Strategies - Udemy](https://www.udemy.com/course/investment-strategies/)")
-    st.markdown("- [Budgeting & Saving - Khan Academy](https://www.khanacademy.org/college-careers-more/personal-finance)")
-    st.markdown("- [Financial Planning - edX](https://www.edx.org/course/financial-planning)")
+    st.markdown("📌 [Personal Finance Basics - Coursera](https://www.coursera.org/learn/personal-finance)")
+    st.markdown("📌 [Investment Strategies - Udemy](https://www.udemy.com/course/investment-strategies/)")
+    st.markdown("📌 [Budgeting & Saving - Khan Academy](https://www.khanacademy.org/college-careers-more/personal-finance)")
+    st.markdown("📌 [Financial Planning - edX](https://www.edx.org/course/financial-planning)")
 
 st.sidebar.write("Created with ❤️ using Streamlit")
