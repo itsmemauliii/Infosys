@@ -11,7 +11,7 @@ page = st.sidebar.radio("Go to", ["Home", "Budget Tracker", "SIP Calculator", "E
 
 # Home Page
 if page == "Home":
-    st.image("assets/logo.png", use_column_width=True)
+    st.image("assets/logo.jpg", use_column_width=True)
     st.header("Empower Yourself Financially! 🚀")
     st.write("This app helps women achieve financial independence through budgeting, investment tracking, and financial education.")
 
