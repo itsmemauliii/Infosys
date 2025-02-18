@@ -1,4 +1,5 @@
 # Financial Empowerment for Women 💰
+# EmpowerHer Finance
 
 ## Overview
 This project is a **Streamlit-powered financial empowerment app** designed to help women manage their finances, budget effectively, and make informed investment decisions. The app provides tools such as **budget tracking, SIP & EMI calculators, investment forecasting, and financial education modules** to enhance financial literacy and independence.
