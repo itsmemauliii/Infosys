@@ -5,7 +5,7 @@ from datetime import datetime
 import yfinance as yf
 
 # App Title
-st.title("💰 Financial Empowerment for Women")
+st.title("💰 EmpowerHer Finance")
 st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to", ["Home", "Budget Tracker", "SIP Calculator", "EMI Calculator", "Investment Analysis", "Financial Learning Hub"])
 
