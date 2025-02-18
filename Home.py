@@ -83,4 +83,4 @@ elif page == "Financial Learning Hub":
     st.markdown("- [Budgeting & Saving - Khan Academy](https://www.khanacademy.org/college-careers-more/personal-finance)")
     st.markdown("- [Financial Planning - edX](https://www.edx.org/course/financial-planning)")
 
-st.sidebar.write("💡 Created with ❤️ using Streamlit")
+st.sidebar.write("Created with ❤️ using Streamlit")
